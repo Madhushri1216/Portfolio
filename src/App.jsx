@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import wonderlust from "./assets/project-img/wonderlust.PNG";
 import bookStore from "./assets/project-img/book-store.png";
 import simonSays from "./assets/project-img/simon.png";
 import weather from "./assets/project-img/weather.png";
