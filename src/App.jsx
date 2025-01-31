@@ -20,8 +20,8 @@ import SkillCard from "./components/SkillCard";
 import TimelineItem from "./components/TimelineItem";
 import ProjectCard from "./components/ProjectCard";
 import About from "./components/About";
-import resume from "./assets/Resume/Madhushri_Karekar.pdf";
-import resumePreview from "./assets/Resume/Madhushri_Karekar.png";
+import resume from "./assets/Resume/Madhushri_Karekar_JFS.pdf";
+import resumePreview from "./assets/Resume/Madhushri_Karekar_JFS-1.png";
 
 function App() {
   const [isNavOpen, setIsNavOpen] = useState(false);
